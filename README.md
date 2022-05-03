@@ -4,7 +4,7 @@ A simple utility for generating Unix password hash.
 
 ## install
 ```shell
-go get https://github.com/lixvbnet/genpasswd
+go get github.com/lixvbnet/genpasswd
 ```
 
 or download pre-compiled binaries from [Releases](https://github.com/lixvbnet/genpasswd/releases) page.
